@@ -1,4 +1,4 @@
-# RailGuard AI — Predictive Railway Hazard Intelligence System
+# VisionGuard — Railway Hazard Intelligence System
 
 Full-stack scaffold:
 - **Backend**: FastAPI (Python) — REST + WebSocket APIs for all 6 modules
